@@ -1,5 +1,3 @@
-# Liam Byrne
-
 ## 👋 About Me
 
 Hey there! I'm a tech enthusiast with a special focus on **Computer Graphics**, **Augmented and Virtual Reality**, **Human-Computer Interaction**, and **Interface Design**. I graduated with a Master's degree in Computer Science, specializing in Augmented and Virtual Reality, from Trinity College Dublin. My dissertation focused on "Redesigning the 2D Paradigm of Computer Work for Head Mounted Displays."
