@@ -20,3 +20,5 @@ I also hold a B.Sc. First Class Honours degree in Computer Science and Business,
 
 - **B.Sc. in Computer Science and Business**, Trinity College Dublin
   - **Classification**: First Class Honours
+  - **Dissertation**: "Voice Mood Logging for Nest Hub with Google Assistant"
+
