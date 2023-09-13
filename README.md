@@ -6,6 +6,11 @@ Hey there! I'm a tech enthusiast with a special focus on **Computer Graphics**, 
 
 I also hold a B.Sc. First Class Honours degree in Computer Science and Business, again from Trinity College Dublin. This multidisciplinary background allows me to view technology through various lenses, integrating both the technical and business aspects.
 
+- **Currently Learning**: 
+  - Blender
+  - Unity
+  - Unreal Engine
+
 
 ## 🎓 Education
 
@@ -15,15 +20,3 @@ I also hold a B.Sc. First Class Honours degree in Computer Science and Business,
 
 - **B.Sc. in Computer Science and Business**, Trinity College Dublin
   - **Classification**: First Class Honours
-
-
-## 📚 Skills & Learning
-
-- **Strong Technical Background**: I have completed modules on a broad range of topics such as Animation, Rendering, Computer Vision, Computer Graphics, Motion Picture Engineering, Machine Learning, and Mixed Reality.
-  
-- **Business Acumen**: My education also includes business-related modules like Finance, Accounting, Economics, Marketing, Organisational Behaviour, and Operations Management.
-  
-- **Currently Learning**: 
-  - Blender
-  - Unity
-  - Unreal Engine
