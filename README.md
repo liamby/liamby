@@ -1,5 +1,5 @@
 ## 👋 About Me
-<img align="right" alt="Java" width="350px" style="padding-right:10px;" src="https://github.com/liamby/liamby/assets/60388361/8c5c8e6f-239c-4b3b-ae26-1fe55e552fce"/>
+<img align="right" alt="Java" width="250px" style="padding-right:10px;" src="https://github.com/liamby/liamby/assets/60388361/8c5c8e6f-239c-4b3b-ae26-1fe55e552fce"/>
 
 Hey there! I'm a tech enthusiast with a special focus on **Computer Graphics**, **Augmented and Virtual Reality**, **Human-Computer Interaction**, and **Interface Design**. I graduated with a Master's degree in Computer Science, specializing in Augmented and Virtual Reality, from Trinity College Dublin. My dissertation focused on ["Redesigning the 2D Paradigm of Computer Work for Head Mounted Displays."](https://github.com/liamby/Redesigning-the-2D-Paradigm-of-Computer-Work-for-Head-Mounted-Displays)
 
