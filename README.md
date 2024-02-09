@@ -25,4 +25,4 @@ I also hold a B.Sc. First Class Honours degree in Computer Science and Business,
 <br />
 <br></br>
 
-Find out more about me on my [personal website](https://liambyrne.vercel.app/)! 🌐
+Find out more about me on my [personal website](https://liam-byrne.vercel.app/)! 🌐
