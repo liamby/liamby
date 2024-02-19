@@ -1,9 +1,9 @@
 ## 👋 About Me
 <img align="right" alt="Java" width="150px" style="padding-right:10px;" src="https://github.com/liamby/liamby/assets/60388361/8c5c8e6f-239c-4b3b-ae26-1fe55e552fce"/>
 
-Hey there! I'm a tech enthusiast with a special focus on **Computer Graphics**, **Augmented and Virtual Reality**, **Human-Computer Interaction**, and **Interface Design**. I graduated with a Master's degree in Computer Science, specializing in Augmented and Virtual Reality, from Trinity College Dublin. My dissertation focused on ["Redesigning the 2D Paradigm of Computer Work for Head Mounted Displays."](https://github.com/liamby/Redesigning-the-2D-Paradigm-of-Computer-Work-for-Head-Mounted-Displays)
+Hey there! I'm a tech enthusiast with a special focus on **Computer Graphics**, **Augmented and Virtual Reality** and **Human-Computer Interaction**. I graduated with a Master's degree in Computer Science, specializing in Augmented and Virtual Reality, from Trinity College Dublin. My dissertation focused on ["Redesigning the 2D Paradigm of Computer Work for Head Mounted Displays."](https://github.com/liamby/Redesigning-the-2D-Paradigm-of-Computer-Work-for-Head-Mounted-Displays)
 
-I also hold a B.Sc. First Class Honours degree in Computer Science and Business, again from Trinity College Dublin. This multidisciplinary background allows me to view technology through various lenses, integrating both the technical and business aspects. The Title of my undergraduate dissertation was ["Voice Mood Logging for Nest Hub with Google Assistant"](https://github.com/liamby/Voice-Mood-Logging-for-Nest-Hub-with-Google-Assistant)
+I also hold a B.Sc. First Class Honours degree in Computer Science and Business, again from Trinity College Dublin. This multidisciplinary background allows me to view technology through various lenses, integrating both the technical and business aspects. The title of my undergraduate dissertation was ["Voice Mood Logging for Nest Hub with Google Assistant"](https://github.com/liamby/Voice-Mood-Logging-for-Nest-Hub-with-Google-Assistant)
 
 - **Currently Learning**: 
   - Blender
