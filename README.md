@@ -3,10 +3,6 @@
 
 Hey there! I'm a tech enthusiast with a special focus on **Computer Graphics**, **Augmented and Virtual Reality** and **Human-Computer Interaction**. I graduated with a Master's degree in Computer Science, specializing in Augmented and Virtual Reality, from Trinity College Dublin. My dissertation focused on ["Redesigning the 2D Paradigm of Computer Work for Head Mounted Displays."](https://github.com/liamby/Redesigning-the-2D-Paradigm-of-Computer-Work-for-Head-Mounted-Displays)
 
-<a href="https://liam-byrne.vercel.app/">
-  <img align="right" src="https://github.com/liamby/liamby/assets/60388361/19e36a42-022c-483d-a2d2-f6285820f2c8" width="150px">
-</a>
-
 I also hold a B.Sc. First Class Honours degree in Computer Science and Business, again from Trinity College Dublin. This multidisciplinary background allows me to view technology through various lenses, integrating both the technical and business aspects. The title of my undergraduate dissertation was ["Voice Mood Logging for Nest Hub with Google Assistant"](https://github.com/liamby/Voice-Mood-Logging-for-Nest-Hub-with-Google-Assistant)
 
 - **Currently Learning**: 
